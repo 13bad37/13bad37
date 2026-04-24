@@ -8,34 +8,39 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nonso-nkire-1578122a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" />
+    LinkedIn
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.nonso.software/">
-    <img src="https://img.shields.io/badge/Portfolio-1E293B?style=flat&logo=globe&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetexplorer.svg" width="18" />
+    Portfolio
   </a>
 </p>
 
-
+---
 
 ## About
 
-I'm a software engineering, robotics and AI student at QUT with an intrerest on systems, full stack development and applied AI 
+I'm a software engineering, robotics and AI student at QUT with an interest in systems, backend development, and applied AI.
 
-I'm mainly interested in building software where the core engineering principles matter - concurrency, performance and architecture, rather than boring surface level interfaces. 
+I focus on building software where the core engineering matters — concurrency, performance, and architecture — rather than surface-level interfaces.
 
+---
 
 ## Work
 
 Currently working on an **AI Developer Profile Analyser**, a **Gravity Simulation**, and an **Embedded Control System EV project**.
 
+---
 
-## Featured projects
+## Featured Projects
 
-- **Gravity Simulation**
-    A real time 2D gravity simulation written in C using SDL2, focused on physically meaningful orbital motion, collision handling, and tracking of energy, momentum, angular momentum, and numerical drift.
+- **Gravity Simulation**  
+  A real-time 2D gravity simulation written in C using SDL2, focused on physically meaningful orbital motion, collision handling, and tracking of energy, momentum, angular momentum, and numerical drift.
 
 - **Peer Practice Manager**  
-  A Java based peer leanring tool that helps students organise, track and manager practice sessions.
+  A Java-based application for organising and managing structured peer practice sessions, focused on improving consistency and collaboration.
 
 - **Elevator Control System**  
   A multi-elevator simulation in C using POSIX threads, shared memory, and TCP communication.
@@ -43,6 +48,7 @@ Currently working on an **AI Developer Profile Analyser**, a **Gravity Simulatio
 - **Movie Application**  
   A full-stack React application with API integration for search and data visualisation.
 
+---
 
 ## Stack
 
@@ -50,6 +56,7 @@ Currently working on an **AI Developer Profile Analyser**, a **Gravity Simulatio
   <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,typescript,javascript,react,nodejs,linux&theme=dark" />
 </p>
 
+---
 
 ## Education
 
@@ -62,9 +69,10 @@ Currently working on an **AI Developer Profile Analyser**, a **Gravity Simulatio
 - *Queensland Certificate of Education*  
   **ATAR:** 94.7 / 99.95
 
+---
 
 ## Metrics
 
 <p align="center">
-  <img src="./github-metrics.svg" width="85%" />
+  <img src="./github-metrics.svg" width="70%" />
 </p>
