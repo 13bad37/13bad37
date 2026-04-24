@@ -8,17 +8,17 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nonso-nkire-1578122a7/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="18" />
+    <img src="https://cdn.jsdelivr.net/npm/line-awesome@1.3.0/svg/linkedin.svg" width="18" />
     LinkedIn
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.nonso.software/">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/internetexplorer.svg" width="18" />
+    <img src="https://cdn.jsdelivr.net/npm/line-awesome@1.3.0/svg/globe-solid.svg" width="18" />
     Portfolio
   </a>
 </p>
 
----
+
 
 ## About
 
@@ -26,13 +26,13 @@ I'm a software engineering, robotics and AI student at QUT with an interest in s
 
 I focus on building software where the core engineering matters — concurrency, performance, and architecture — rather than surface-level interfaces.
 
----
+
 
 ## Work
 
 Currently working on an **AI Developer Profile Analyser**, a **Gravity Simulation**, and an **Embedded Control System EV project**.
 
----
+
 
 ## Featured Projects
 
@@ -48,15 +48,15 @@ Currently working on an **AI Developer Profile Analyser**, a **Gravity Simulatio
 - **Movie Application**  
   A full-stack React application with API integration for search and data visualisation.
 
----
+
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,typescript,javascript,react,nodejs,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cs,python,typescript,javascript,react,nodejs,linux&theme=dark" />
 </p>
 
----
+
 
 ## Education
 
@@ -69,10 +69,8 @@ Currently working on an **AI Developer Profile Analyser**, a **Gravity Simulatio
 - *Queensland Certificate of Education*  
   **ATAR:** 94.7 / 99.95
 
----
-
 ## Metrics
 
 <p align="center">
-  <img src="./github-metrics.svg" width="70%" />
+  <img src="./github-metrics.svg" width="78%" />
 </p>
