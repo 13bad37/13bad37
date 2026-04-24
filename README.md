@@ -24,7 +24,7 @@
 
 I'm a software engineering, robotics and AI student at QUT with an interest in systems, backend development, and applied AI.
 
-I focus on building software where the core engineering matters — concurrency, performance, and architecture — rather than surface-level interfaces.
+I focus on building software where core engineering principles like concurrency, performance, and architecture matter, instead of boring surface level interfaces.
 
 
 
