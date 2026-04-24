@@ -28,7 +28,6 @@ I'm mainly interested in building software where the core engineering principles
 
 Currently working on an **AI Developer Profile Analyser**, a **Gravity Simulation**, and an **Embedded Control System EV project**.
 
----
 
 ## Featured projects
 
@@ -63,7 +62,6 @@ Currently working on an **AI Developer Profile Analyser**, a **Gravity Simulatio
 - *Queensland Certificate of Education*  
   **ATAR:** 94.7 / 99.95
 
----
 
 ## Metrics
 
