@@ -1,68 +1,72 @@
-<h1 align="center">Nonso</h1>
-
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Nonso" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&duration=5000&pause=2000&color=38BDF8&center=true&vCenter=true&width=900&height=100&lines=Hello+there!+%F0%9F%91%8B;My+name+is+Nonso;Nice+to+meet+you;I'm+a+software+engineering,+robotics+%26+AI+student+@+QUT;Learn+more+about+me+below" />
 </p>
 
 <p align="center">
-  <a href="https://www.nonso.software/">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
+  Software, Robotics and AI Engineering student at QUT
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/nonso-nkire-1578122a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.nonso.software/">
+    <img src="https://img.shields.io/badge/Portfolio-1E293B?style=flat&logo=globe&logoColor=white" />
   </a>
 </p>
 
----
+
+
+## About
+
+I'm a software engineering, robotics and AI student at QUT with an intrerest on systems, full stack development and applied AI 
+
+I'm mainly interested in building software where the core engineering principles matter - concurrency, performance and architecture, rather than boring surface level interfaces. 
+
 
 ## Work
 
-Currently working on the **AI Developer Profile Analyser**, a **Gravity Simulation**, and an **Embedded Control System EV project**.
-
-My main interests are systems programming, backend development, distributed systems, and applied AI. I like projects where the engineering decisions actually matter, not just polished frontends with nothing behind them.
+Currently working on an **AI Developer Profile Analyser**, a **Gravity Simulation**, and an **Embedded Control System EV project**.
 
 ---
 
-## Projects
+## Featured projects
+
+- **Gravity Simulation**
+    A real time 2D gravity simulation written in C using SDL2, focused on physically meaningful orbital motion, collision handling, and tracking of energy, momentum, angular momentum, and numerical drift.
+
+- **Peer Practice Manager**  
+  A Java based peer leanring tool that helps students organise, track and manager practice sessions.
 
 - **Elevator Control System**  
-  Multi-elevator simulation in C using POSIX threads, shared memory, and TCP communication.
+  A multi-elevator simulation in C using POSIX threads, shared memory, and TCP communication.
 
 - **Movie Application**  
-  Full-stack React application with API integration for search and data visualisation.
+  A full-stack React application with API integration for search and data visualisation.
 
-- **Hospital Management System**  
-  Console-based system in C# handling multi-role operations and workflows.
-
----
 
 ## Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,javascript,react&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,typescript,javascript,react,nodejs,linux&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-</p>
-
----
 
 ## Education
 
-**Queensland University of Technology**  
-Bachelor of Engineering (Honours), Computer and Software Systems major  
-Master of Robotics and AI
+- *Bachelor of Engineering (Honours), Computer and Software Systems (2024 – 2027)*  
+  **Grade Point Average:** Distinction (6.25)
+
+- *Master of Robotics and Artificial Intelligence (2028)*  
+  **Grade Point Average:** N/A
+
+- *Queensland Certificate of Education*  
+  **ATAR:** 94.7 / 99.95
 
 ---
 
 ## Metrics
 
 <p align="center">
-  <img src="./github-metrics.svg" width="85%" alt="GitHub Metrics" />
+  <img src="./github-metrics.svg" width="85%" />
 </p>
