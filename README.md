@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Software, Robotics and AI Engineering student at QUT
+  Software, Robotics and AI Engineering student
 </p>
 
 <p align="center">
